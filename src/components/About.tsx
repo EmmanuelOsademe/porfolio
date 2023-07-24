@@ -54,7 +54,7 @@ const About: React.FC = () => {
                     variants={fadeIn("", "", 0.1, 1)}
                     className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
                 >
-                    I'm a skilled software developer with experience in TypeScript, JavaScript and Java, and expertise in frameworks like NextJS, React, NodeJS and Springboot. I'm a quick learner and collaborates closely with clients and teammates to create efficient, scalable, and user-friendly solutions that solve real-world problems.<br/>Let's work together to bring your ideas to life!
+                    I'm a skilled software developer with experience in TypeScript, JavaScript and Java, and expertise in frameworks like NextJS, React, NodeJS and Springboot. I'm a fast learner and collaborate closely with clients and teammates to create efficient, scalable, and user-friendly solutions that solve real-world problems.<br/>Let's work together to bring your ideas to life!
                 </motion.p>
                 <div className="mt-20 flex justify-center flex-wrap gap-10">
                     {services.map((service, index) => (
