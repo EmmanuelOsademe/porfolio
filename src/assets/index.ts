@@ -9,7 +9,6 @@ import close from "./close.svg";
 import emmys from "./emmys-black.png";
 import website from "./website.png";
 
-
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
 import figma from "./tech/figma.png";
@@ -26,7 +25,7 @@ import threejs from "./tech/threejs.svg";
 import grafql from "./tech/grafql.svg";
 import next from "./tech/nextjs.svg";
 import java from "./tech/java.jpg";
-import springboot from "./tech/springboot.png"
+import springboot from "./tech/springboot.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -41,10 +40,11 @@ import shopinn from "./shopin.png";
 import metaverses from "./metaverses.png";
 import flexxible from "./flexxible.png";
 import dalle from "./dalle.png";
+import devOverflow from "./devoverflow.png";
 
 import gloria from "./referees/gloria.jpeg";
 import janet from "./referees/janet.jpeg";
-import adetayo from "./referees/adetayo.jpeg"
+import adetayo from "./referees/adetayo.jpeg";
 
 export {
   logo,
@@ -80,13 +80,14 @@ export {
   shopinn,
   metaverses,
   flexxible,
-  website, 
-  grafql, 
+  website,
+  grafql,
   next,
-  java, 
+  java,
   springboot,
   janet,
   gloria,
   adetayo,
-  dalle
+  dalle,
+  devOverflow,
 };
