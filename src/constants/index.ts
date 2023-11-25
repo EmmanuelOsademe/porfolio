@@ -18,7 +18,6 @@ import {
   threejs,
   customizeit,
   shopinn,
-  flexxible,
   metaverses,
   grafql,
   next,
