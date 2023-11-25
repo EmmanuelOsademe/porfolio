@@ -277,27 +277,6 @@ const projects = [
     deployment_link:
       "https://emmys-carhub-6cdu7y7id-emmanuelosademe.vercel.app/",
   },
-  // {
-  //   name: "Flexxible",
-  //   description:
-  //     "A web application that allows developers and IT professionals around the world to showcase their work and derive insights from each other",
-  //   tags: [
-  //     {
-  //       name: "next",
-  //       color: "blue-text-gradient",
-  //     },
-  //     {
-  //       name: "grafql",
-  //       color: "green-text-gradient",
-  //     },
-  //     {
-  //       name: "tailwind",
-  //       color: "pink-text-gradient",
-  //     },
-  //   ],
-  //   image: flexxible,
-  //   source_code_link: "https://github.com/EmmanuelOsademe/emmys-flexibble",
-  // },
   {
     name: "Metaverses",
     description:
