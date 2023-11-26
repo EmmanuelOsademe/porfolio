@@ -251,8 +251,7 @@ const projects = [
     ],
     image: devOverflow,
     source_code_link: "https://github.com/EmmanuelOsademe/devoverflow",
-    deployment_link:
-      "https://devoverflow-34woqiwi4-emmanuelosademe.vercel.app/",
+    deployment_link: "https://devoverflow-eight.vercel.app/",
   },
   {
     name: "Car Rent",
